@@ -1,12 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Victor Silva!</h1>
 <h3 align="center">Desenvolvedor apaixonado por tecnologia e inovação 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=victorsilvavs&label=Profile%20views&color=0e75b6&style=flat" alt="victorsilvavs" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=victorsilvavs" alt="victorsilvavs" />
-  </a>
-</p>
+
 
 ---
 
