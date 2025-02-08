@@ -124,7 +124,7 @@
 
 ### 📝 Projetos Destacados
 - [VisionAlign](#) - Inteligencia artificial de imagem para industria
-- [Enem]([victorsilvavs.github.io/Enem](https://github.com/VictorSilvaVS/Enem)) - Site feito para estudantes do enem, conseguirem ter um norte.
+- [Enem](https://github.com/VictorSilvaVS/Enem) - Um projeto incrível para ajudar estudantes a se prepararem para o ENEM.
 - [Oráculo](#) - Um assistente empresarial capaz de analisar dados e 'prevê' tendencias de mercados
 
 ---
