@@ -123,16 +123,9 @@
 ---
 
 ### 📝 Projetos Destacados
-- [Projeto 1](#) - Descrição breve do projeto.
-- [Projeto 2](#) - Descrição breve do projeto.
-- [Projeto 3](#) - Descrição breve do projeto.
-
----
-
-### 📫 Como Me Encontrar
-- **Email**: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- **LinkedIn**: [linkedin.com/in/victorsilva](https://linkedin.com/in/victorsilva)
-- **Instagram**: [@vicode._](https://instagram.com/vicode._)
+- [VisionAlign](#) - Inteligencia artificial de imagem para industria
+- [Enem](victorsilvavs.github.io/Enem) - Site feito para estudantes do enem, conseguirem ter um norte.
+- [Oráculo](#) - Um assistente empresarial capaz de analisar dados e 'prevê' tendencias de mercados
 
 ---
 
