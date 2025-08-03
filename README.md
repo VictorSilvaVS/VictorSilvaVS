@@ -24,7 +24,7 @@
   <a href="https://dev.to/vicode" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vicode" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/victorsilva" target="blank">
+  <a href="https://linkedin.com/in/viktorsilva" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorsilva" height="30" width="40" />
   </a>
   <a href="https://instagram.com/vicode._" target="blank">
